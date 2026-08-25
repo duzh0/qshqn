@@ -10,6 +10,7 @@ bin/
 init.json
 data.txt
 dump.txt
+notes.md
 
 vendor/
 .vscode/
