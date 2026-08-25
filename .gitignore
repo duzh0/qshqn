@@ -1,6 +1,15 @@
 out/
 bin/
-	
+
+*.session
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+init.json
+data.txt
+dump.txt
+
 vendor/
-	
 .vscode/

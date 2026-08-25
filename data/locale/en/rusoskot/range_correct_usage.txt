@@ -1,0 +1,16 @@
+date formats:
+dd.mm.yyyy/yy
+mm.yyyy/yy
+
+14.01.2024
+14.01.24
+01.2024
+01.24
+
+date ranges:
+formats can be mixed
+[date]-[date]
+
+14.01.2024-02.24
+03.25-06.25
+02.24-01.01.2025

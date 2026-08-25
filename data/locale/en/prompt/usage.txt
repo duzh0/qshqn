@@ -1,0 +1,4 @@
+{{.trigger}} {{.keyword}} [text] => set prompt
+{{.trigger}} {{.keyword}} => show your prompt
+{{.trigger}} {{.keyword}} + [a reply to someone] => show their prompt
+{{.trigger}} {{.keyword}} {{msg:prompt.reset_word}} => reset prompt

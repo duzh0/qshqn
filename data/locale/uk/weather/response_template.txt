@@ -1,0 +1,11 @@
+{{.flag}} <b>{{.city}}</b> ({{.country}})
+{{.clock}} <b>Місцевий час</b> {{.local_time}} (UTC {{.utc_tz}})
+
+{{.weather_emoji}} <b>{{.weather_description}}</b>
+🌡️ <b>{{.temperature}}°C</b> (відчувається як {{.feels_like}}°C)
+💧<b>Вологість</b> {{.humidity}}%
+🌀<b>Тиск</b> {{.pressure}} гПа
+💨 <b>Вітер</b> {{.wind_speed}} м/с
+
+🌇<b>Схід - </b> 🌃 <b>Захід сонця</b>
+{{.sunrise}} - {{.sunset}}

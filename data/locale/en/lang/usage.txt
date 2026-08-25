@@ -1,0 +1,2 @@
+{{.trigger}} {{.keyword}} => shows current language and prompts to change it
+or {{.trigger}} {{.keyword}} [2-letter language code]

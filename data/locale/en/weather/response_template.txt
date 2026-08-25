@@ -1,0 +1,11 @@
+{{.flag}} <b>{{.city}}</b> ({{.country}})
+{{.clock}} <b>Local time</b> {{.local_time}} (UTC {{.utc_tz}})
+
+{{.weather_emoji}} <b>{{.weather_description}}</b>
+🌡️ <b>{{.temperature}}°C</b> (feels like {{.feels_like}}°C)
+💧<b>Humidity</b> {{.humidity}}%
+🌀<b>Pressure</b> {{.pressure}} hPa
+💨 <b>Wind</b> {{.wind_speed}} m/s
+
+🌇<b>Sunrise - </b> 🌃 <b>Sunset</b>
+{{.sunrise}} - {{.sunset}}
